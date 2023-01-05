@@ -148,3 +148,7 @@ section {
   margin-top: 50px;
   text-align: center;
 }
+/* contact style */
+.contact .section-title {
+  text-align: left;
+}
